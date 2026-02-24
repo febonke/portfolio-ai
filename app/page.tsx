@@ -192,7 +192,7 @@ export default function Home() {
             <p>📧 felipe.t.bonke@gmail.com</p>
             <p>📱 (908) 341-2703</p>
             <p>
-              🔗 LinkedIn: <span className="text-zinc-400">(paste your LinkedIn URL here)</span>
+              🔗 LinkedIn: <span className="text-zinc-400">Felipe Takahashi Bonke</span>
             </p>
           </div>
         </motion.div>
